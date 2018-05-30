@@ -1,0 +1,10 @@
+{
+    "data": {
+        "baseUrl": "",
+        "layout_url": "./static/layout.json"
+    },
+    "schema": {
+        "baseUrl": "基础URL",
+        "layout_url": "布局配置文件"
+    }
+}
